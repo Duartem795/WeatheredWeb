@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(59, 58, 57);
+
+}
+
+nav {
+    float: left;
+    width: 35%;
+    padding: 20px;
+    color: rgb(235, 235, 235);
+    background-color: rgb(92, 122, 129);
+
+}
+section {
+    float: right;
+    width: 57%;
+    padding: 20px;
+    background-color: darkgrey;
+}
